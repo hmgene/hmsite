@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hyunmin Kim</title>
-      <link>/hyunmin-kim/</link>
+      <link>//localhost:1313/hyunmin-kim/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/hyunmin-kim/</guid>
+      <guid>//localhost:1313/hyunmin-kim/</guid>
       <description>&lt;p&gt;Experienced Bioinformaticist 20+ years working on Cancer/RNA projects&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
